@@ -23,6 +23,3 @@ git clone https://github.com/Leeseungjun315/schoolon_flutter_app.git
 cd schoolon_flutter_app
 flutter pub get
 flutter run
-=======
-# schoolon_flutter_app
->>>>>>> 82a881ec942e7f2255999a210be0b4e73bcb19eb
